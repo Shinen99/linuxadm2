@@ -38,7 +38,6 @@
 update-rc.d daemon.sh start
 
 
-![linux console](2.png)
 
 ![linux console](3.png)
 
